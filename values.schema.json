@@ -563,6 +563,7 @@
             },
             {
               "properties": {},
+              "maxProperties": 0,
               "required": []
             }
           ]
