@@ -1,9 +1,9 @@
 apiVersion: v2
-appVersion: 1.4.5
+appVersion: 1.10.4
 description: Kanidm is a simple, secure, and fast identity management platform
 home: https://github.com/KittyKatt/kanidm-helm-chart
 name: kanidm
-version: 0.1.0
+version: 0.1.2
 type: application
 sources:
   - https://kanidm.github.io/
